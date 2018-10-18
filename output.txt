@@ -1,0 +1,224 @@
+sortSize: 851
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+2415 doesn't exist in the list.
+It takes 851 times of comparisons to provide the result.
+
+Binary Search Result:
+2415 doesn't exist in the list.
+It takes 11 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+6941 doesn't exist in the list.
+It takes 851 times of comparisons to provide the result.
+
+Binary Search Result:
+6941 doesn't exist in the list.
+It takes 11 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+8788 doesn't exist in the list.
+It takes 851 times of comparisons to provide the result.
+
+Binary Search Result:
+8788 doesn't exist in the list.
+It takes 10 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+6798 doesn't exist in the list.
+It takes 851 times of comparisons to provide the result.
+
+Binary Search Result:
+6798 doesn't exist in the list.
+It takes 11 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+4697 doesn't exist in the list.
+It takes 851 times of comparisons to provide the result.
+
+Binary Search Result:
+4697 doesn't exist in the list.
+It takes 11 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+248 doesn't exist in the list.
+It takes 851 times of comparisons to provide the result.
+
+Binary Search Result:
+248 doesn't exist in the list.
+It takes 11 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+9256 doesn't exist in the list.
+It takes 851 times of comparisons to provide the result.
+
+Binary Search Result:
+9256 doesn't exist in the list.
+It takes 11 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+9758 doesn't exist in the list.
+It takes 851 times of comparisons to provide the result.
+
+Binary Search Result:
+9758 doesn't exist in the list.
+It takes 11 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+75 doesn't exist in the list.
+It takes 851 times of comparisons to provide the result.
+
+Binary Search Result:
+75 doesn't exist in the list.
+It takes 11 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+5756 doesn't exist in the list.
+It takes 851 times of comparisons to provide the result.
+
+Binary Search Result:
+5756 doesn't exist in the list.
+It takes 11 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+92 found in index 187
+It takes 188 times of comparisons to provide the result.
+
+Binary Search Result:
+92 found in index 8
+It takes 8 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+1298 found in index 232
+It takes 233 times of comparisons to provide the result.
+
+Binary Search Result:
+1298 found in index 122
+It takes 9 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+2200 found in index 208
+It takes 209 times of comparisons to provide the result.
+
+Binary Search Result:
+2200 found in index 196
+It takes 9 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+3608 found in index 301
+It takes 302 times of comparisons to provide the result.
+
+Binary Search Result:
+3608 found in index 300
+It takes 8 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+4272 found in index 373
+It takes 374 times of comparisons to provide the result.
+
+Binary Search Result:
+4272 found in index 356
+It takes 10 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+5008 found in index 456
+It takes 457 times of comparisons to provide the result.
+
+Binary Search Result:
+5008 found in index 426
+It takes 9 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+6338 found in index 539
+It takes 540 times of comparisons to provide the result.
+
+Binary Search Result:
+6338 found in index 547
+It takes 8 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+7050 found in index 650
+It takes 651 times of comparisons to provide the result.
+
+Binary Search Result:
+7050 found in index 607
+It takes 8 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+8923 found in index 699
+It takes 700 times of comparisons to provide the result.
+
+Binary Search Result:
+8923 found in index 758
+It takes 9 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+Linear Search Result:
+9862 found in index 811
+It takes 812 times of comparisons to provide the result.
+
+Binary Search Result:
+9862 found in index 836
+It takes 10 times of comparisons to provide the result.
+
+
+-----------------------------------------------------------
+Please type in a number to search(Terminate by input -999): 
+
